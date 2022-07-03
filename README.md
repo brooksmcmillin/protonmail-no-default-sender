@@ -9,4 +9,4 @@ Will update with links to the Chrome and Firefox extension stores when it gets p
 The only differences between the Firefox and the Chrome version is that Firefox only accepts manifest with `manifest_version` set to 2 and Chrome only accepts manifests with `manifest_version` set to 3. Everything else is exactly the same. 
 
 # Build Instructions
-Change the name of `manifest_firefox.json` or manifest_chrome.json` to `manifest.json` and then zip it up with `main.js`. This zip file can be installed on any Firefox or Chrome browser respectively. 
+Change the name of `manifest_firefox.json` or `manifest_chrome.json` to `manifest.json` and then zip it up with `main.js`. This zip file can be installed on any Firefox or Chrome browser respectively. 
